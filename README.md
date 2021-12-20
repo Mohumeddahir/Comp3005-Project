@@ -9,6 +9,11 @@ Khalid Dahir
 ## Installation
 Open a new Java project, drag and drop our java file, and compile and run. You can login using any username and password, but the owner accounts are 'Greg' and 'Owen', which, if logged into, would allow you access to all functionalities.
 
+## Screenshots of Impl.
+https://imgur.com/tEjCMNJ
+https://imgur.com/a/pecr63Q
+https://imgur.com/a/iexKLFM
+https://imgur.com/a/abzFBoP
 
 ## Usage
 Simulates a book store.
